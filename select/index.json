@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "穴を掘っている - Anawohotteiru",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-18T13:52:32.396364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "穴を掘っている",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_穴を掘っている_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "穴を掘っている Acoustic Live「騒々しい無人 2024」",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_穴を掘っている_Acoustic_Live「騒々しい無人_2024」_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "穴を掘っている Acoustic Live 「騒々しい無人 2024」",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_穴を掘っている_Acoustic_Live_「騒々しい無人_2024」_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "穴を掘っている",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_穴を掘っている_amazarashi.txt"
+    }
+  ]
+}
